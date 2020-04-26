@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyGithub</string>
+    <string name="sendBut">Send</string>
+    <string name="glogo">Github Logo</string>
+    <string name="title_activity_github_profile">Github Profile</string>
+    <string name="tab_text_1">Profile</string>
+    <string name="tab_text_2">Repository</string>
+    <string name="guser">Github Name</string>
+    <string name="gpbrepo">Public Repos</string>
+    <string name="gpvrepo">Private Repos</string>
+    <string name="cnt">0,0</string>
+    <string name="frcnt">Followers</string>
+    <string name="fgcnt">Following</string>
+    <string name="gurl">Profile Page</string>
+    <string name="gpbgist">Public Gists</string>
+    <string name="loading">loading</string>
+    <string name="forks">forks</string>
+    <string name="watcher">Watchers</string>
+    <string name="stars">stars</string>
+</resources>
